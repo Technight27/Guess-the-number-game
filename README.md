@@ -1,6 +1,7 @@
 # Guess-the-number-game
 I have build a guess a number game using python
-#Number Guessing Game Objectives:
+
+# Number Guessing Game Objectives:
 
  Include an ASCII art logo.
  Allow the player to submit a guess for a number between 1 and 100.
